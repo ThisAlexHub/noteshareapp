@@ -8,10 +8,8 @@ Send generated address to your friend <br/>
 
 How to view a note? Go to the URL or type your address.
 
-Demo:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xWv25Mg" data-context="false" ><a href="//imgur.com/a/xWv25Mg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8">Share App Demo</script>
 
-
+[App demo gif](https://imgur.com/a/xWv25Mg)
 
 
 
